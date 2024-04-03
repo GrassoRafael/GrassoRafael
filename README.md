@@ -9,7 +9,7 @@
 
 - 📫 Fale comigo **rafael_grasso@outlook.com**
 
-- 📄 Tenho experiência com [Banco de dados, Python, SQL, Power BI, Machine Learning](Banco de dados, Python, SQL, Power BI, Machine Learning)
+- 📄 Tenho experiência com [Banco de dados, Python, SQL, Power BI, Machine Learning, Criação de insights para negócios, KPIs entre outros]
 
 - ⚡ Fato engraçado sobre mim **Amo gatos e games (Quem não ama?)**
 
