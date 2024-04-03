@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho no **Grupo Ullmann**
 
-- 👯 Atualmente procuro pessoas para conversar sobre a **área de dados**
+- 👯 Procuro pessoas para conversar sobre a **área de dados**
 
 - 💬 Me pergunte sobre **Python, Machine Learning, estratégias de negócios, análise de dados.**
 
