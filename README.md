@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Rafael</h1>
-<h3 align="center">Um cientista de dados em constante evolução.</h3>
+<h3 align="center">Um analista / cientista de dados em constante evolução.</h3>
 
-- 🔭 Atualmente trabalho no **Grupo Ullmann**
+- 🔭 Atualmente trabalho como Analista de Dados Pl na **Lippaus**
 
 - 👯 Procuro pessoas para conversar sobre a **área de dados**
 
