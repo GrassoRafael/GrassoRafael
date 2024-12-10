@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Rafael</h1>
-<h3 align="center">Um analista / cientista de dados em constante evolução.</h3>
+<h3 align="center">Um Cientista de dados em constante evolução.</h3>
 
 - 🔭 Atualmente trabalho como Analista de Dados Pl na **Lippaus**
 
@@ -9,7 +9,7 @@
 
 - 📫 Fale comigo **rafael_grasso@outlook.com**
 
-- 📄 Tenho experiência com [Banco de dados, Python, SQL, Power BI, Machine Learning, Criação de insights para negócios, KPIs entre outros]
+- 📄 Tenho experiência com Python (Scikit-Learn, Statsmodels, Keras, TensorFlow, Pandas, Seaborn, etc..), SQL, Excel, Power BI.
 
 - ⚡ Fato engraçado sobre mim **Amo gatos e games (Quem não ama?)**
 
